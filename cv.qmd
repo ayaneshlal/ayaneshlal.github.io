@@ -1,0 +1,84 @@
+---
+title: "CV"
+---
+
+## Education
+
+### Université Sorbonne Paris Nord
+**Master de Mathématiques**  
+Paris, France · 2024–2026
+
+M1 in Pure and Applied Mathematics followed by M2 Mathematics Research, with coursework also undertaken at Sorbonne Université and Université Paris Cité.
+
+### Shiv Nadar Institution of Eminence
+**B.Sc. (Research) in Mathematics**  
+Greater Noida, India · 2020–2024
+
+
+## Research
+
+### Master's Thesis
+**Linear wave equations on Schwarzschild–de Sitter spacetimes** · 2026
+
+Advised by Dr. Pascal Millet and Dr. Volker Schlue.  
+Spectral and microlocal study of linear wave equations on Schwarzschild–de Sitter spacetimes, focusing on trapping, radial point estimates, and Fredholm properties.
+
+### Undergraduate Research
+**Representation Theory of Finite and Compact Groups** · 2023–2024
+
+Advised by Dr. Amber Habib.  
+Year-long project on representations of finite and compact groups, culminating in the Peter–Weyl theorems.
+
+
+## Selected Projects
+
+### Results in Harmonic Analysis
+**Université Sorbonne Paris Nord** · 2024–2025
+
+Study of selected results in harmonic analysis, including convolution operators with oscillatory kernels.
+
+### Spectral Theorem for Self-Adjoint and Unitary Operators
+**Université Sorbonne Paris Nord** · 2024–2025
+
+Study of the spectral theorem for self-adjoint and unitary operators via the Cayley transform.
+
+### Kakeya's Needle Problem and Finite Field Conjecture
+**Indian Institute of Technology Kanpur** · 2023
+
+Summer study project on Kakeya's needle problem, Besicovitch sets, Hausdorff and Minkowski dimensions, and the finite-field Kakeya conjecture.
+
+
+## Selected Talks
+
+### Probability Laws about Jacobi Theta, Riemann Zeta Functions and Brownian Excursions
+**Université Sorbonne Paris Nord** · 2025–2026
+
+Twenty-minute seminar on probability results connecting Jacobi theta functions, the Riemann zeta function, and Brownian excursions.
+
+### Wasserstein Stability for Lipschitz Functions
+**Université Sorbonne Paris Nord** · 2024–2025
+
+Seminar based on David Cohen-Steiner's paper *Lipschitz Functions Have Lp-Stable Persistence*.
+
+### Kakeya's Needle Problem
+**MathXChange — Indian Statistical Institute × SNIoE** · 2023
+
+Talk introducing Kakeya's needle problem and a construction of a Besicovitch set using the Cantor set of dissection half.
+
+
+## Teaching
+
+### Tutor
+**Learning and Academic Support Centre, Shiv Nadar Institution of Eminence** · 2023
+
+Tutor for Calculus I, supporting a group of undergraduate students through weekly lectures and tutorials.
+
+
+## Fellowship
+
+### l’EUR PNGS M&CS Grant
+**Université Sorbonne Paris Nord** · 2024–2026
+
+Grant awarded on the basis of academic performance for the duration of the masters program, covering accommodation and a monthly stipend.
+
+[Download detailed CV (PDF)](files/Ayanesh_Lal_CV.pdf){.btn .btn-primary target="_blank"}

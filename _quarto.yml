@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Ayanesh Lal"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: writing.qmd
+        text: Writing Samples
+      - href: interests.qmd
+        text: Interests
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
