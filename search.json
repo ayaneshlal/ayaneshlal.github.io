@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Writing Samples",
+    "section": "",
+    "text": "These are a few pieces of mathematical write ups that I am particularly happy with and which could possibly act as expository stuff regardless of their primary purpose. A more complete list of my work, including slides and other projects can be found in my detailed CV. I plan to create a “Research” page when I have original research work to share, but for now this page is a collection of my expository writings and reports from various projects and seminars."
+  },
+  {
+    "objectID": "writing.html#linear-wave-equations-on-schwarzschildde-sitter-spacetimes",
+    "href": "writing.html#linear-wave-equations-on-schwarzschildde-sitter-spacetimes",
+    "title": "Writing Samples",
+    "section": "Linear Wave Equations on Schwarzschild–de Sitter Spacetimes",
+    "text": "Linear Wave Equations on Schwarzschild–de Sitter Spacetimes\n\n\n\n\nThis thesis studies linear wave equations on Schwarzschild–de Sitter spacetimes using spectral theory and microlocal analysis. It develops the geometric and analytic framework behind wave propagation on black-hole backgrounds, with particular attention to radial point estimates and Fredholm theory.\nRead the thesis"
+  },
+  {
+    "objectID": "writing.html#results-in-harmonic-analysis",
+    "href": "writing.html#results-in-harmonic-analysis",
+    "title": "Writing Samples",
+    "section": "Results in Harmonic Analysis",
+    "text": "Results in Harmonic Analysis\n\n\n\n\nThis write-up begins with classical geometric and analytic results such as the Loomis–Whitney, isoperimetric, Sobolev, and Hardy–Littlewood–Sobolev inequalities, before moving to oscillatory integrals and geometric constraints. The main part studies the failure of certain \\(L^p\\) estimates for oscillatory convolution operators through Fefferman’s counterexample.\nRead the report"
+  },
+  {
+    "objectID": "writing.html#spectral-theorem-for-self-adjoint-and-unitary-operators",
+    "href": "writing.html#spectral-theorem-for-self-adjoint-and-unitary-operators",
+    "title": "Writing Samples",
+    "section": "Spectral Theorem for Self-Adjoint and Unitary Operators",
+    "text": "Spectral Theorem for Self-Adjoint and Unitary Operators\n\n\n\n\nThis report develops the basic theory of self-adjoint and unitary operators in functional analysis and proves their spectral theorems, using functional calculus and the Cayley transform as central tools.\nRead the report"
+  },
+  {
+    "objectID": "writing.html#representation-of-finite-and-compact-groups",
+    "href": "writing.html#representation-of-finite-and-compact-groups",
+    "title": "Writing Samples",
+    "section": "Representation of Finite and Compact Groups",
+    "text": "Representation of Finite and Compact Groups\n\n\n\n\nPoster from my undergraduate research project on representation theory of finite and compact groups. The project began with representations of finite groups and continued through Haar measure, compact groups, and the Peter–Weyl theorem, culminating in a proof of versions of the Peter–Weyl theorem.\nView the poster"
+  },
+  {
+    "objectID": "writing.html#wasserstein-stability-for-lipschitz-functions",
+    "href": "writing.html#wasserstein-stability-for-lipschitz-functions",
+    "title": "Writing Samples",
+    "section": "Wasserstein Stability for Lipschitz Functions",
+    "text": "Wasserstein Stability for Lipschitz Functions\n\n\n\n\nHandwritten notes prepared for a seminar on David Cohen-Steiner’s work on stability in persistent homology. The talk introduced triangulations, Lipschitz functions, persistence diagrams, and the ideas underlying Wasserstein stability for Lipschitz functions.\nView the handwritten notes"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ayanesh Lal",
+    "section": "",
+    "text": "I recently completed the joint M2 Fundamental Mathematics track in Paris and will be a visiting student at the University of Melbourne for the month of October. This website is a place where I share a little about myself, my academic work (unfortunately not much at the moment 😔), and the things I care about outside of mathematics as well."
+  },
+  {
+    "objectID": "index.html#hi-im-ayanesh.",
+    "href": "index.html#hi-im-ayanesh.",
+    "title": "Ayanesh Lal",
+    "section": "",
+    "text": "I recently completed the joint M2 Fundamental Mathematics track in Paris and will be a visiting student at the University of Melbourne for the month of October. This website is a place where I share a little about myself, my academic work (unfortunately not much at the moment 😔), and the things I care about outside of mathematics as well."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Master de Mathématiques\nParis, France · 2024–2026\nM1 in Pure and Applied Mathematics followed by M2 Mathematics Research, with coursework also undertaken at Sorbonne Université and Université Paris Cité.\n\n\n\nB.Sc. (Research) in Mathematics\nGreater Noida, India · 2020–2024"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "Master de Mathématiques\nParis, France · 2024–2026\nM1 in Pure and Applied Mathematics followed by M2 Mathematics Research, with coursework also undertaken at Sorbonne Université and Université Paris Cité.\n\n\n\nB.Sc. (Research) in Mathematics\nGreater Noida, India · 2020–2024"
+  },
+  {
+    "objectID": "cv.html#research",
+    "href": "cv.html#research",
+    "title": "CV",
+    "section": "Research",
+    "text": "Research\n\nMaster’s Thesis\nLinear wave equations on Schwarzschild–de Sitter spacetimes · 2026\nAdvised by Dr. Pascal Millet and Dr. Volker Schlue.\nSpectral and microlocal study of linear wave equations on Schwarzschild–de Sitter spacetimes, focusing on trapping, radial point estimates, and Fredholm properties.\n\n\nUndergraduate Research\nRepresentation Theory of Finite and Compact Groups · 2023–2024\nAdvised by Dr. Amber Habib.\nYear-long project on representations of finite and compact groups, culminating in the Peter–Weyl theorems."
+  },
+  {
+    "objectID": "cv.html#selected-projects",
+    "href": "cv.html#selected-projects",
+    "title": "CV",
+    "section": "Selected Projects",
+    "text": "Selected Projects\n\nResults in Harmonic Analysis\nUniversité Sorbonne Paris Nord · 2024–2025\nStudy of selected results in harmonic analysis, including convolution operators with oscillatory kernels.\n\n\nSpectral Theorem for Self-Adjoint and Unitary Operators\nUniversité Sorbonne Paris Nord · 2024–2025\nStudy of the spectral theorem for self-adjoint and unitary operators via the Cayley transform.\n\n\nKakeya’s Needle Problem and Finite Field Conjecture\nIndian Institute of Technology Kanpur · 2023\nSummer study project on Kakeya’s needle problem, Besicovitch sets, Hausdorff and Minkowski dimensions, and the finite-field Kakeya conjecture."
+  },
+  {
+    "objectID": "cv.html#selected-talks",
+    "href": "cv.html#selected-talks",
+    "title": "CV",
+    "section": "Selected Talks",
+    "text": "Selected Talks\n\nProbability Laws about Jacobi Theta, Riemann Zeta Functions and Brownian Excursions\nUniversité Sorbonne Paris Nord · 2025–2026\nTwenty-minute seminar on probability results connecting Jacobi theta functions, the Riemann zeta function, and Brownian excursions.\n\n\nWasserstein Stability for Lipschitz Functions\nUniversité Sorbonne Paris Nord · 2024–2025\nSeminar based on David Cohen-Steiner’s paper Lipschitz Functions Have Lp-Stable Persistence.\n\n\nKakeya’s Needle Problem\nMathXChange — Indian Statistical Institute × SNIoE · 2023\nTalk introducing Kakeya’s needle problem and a construction of a Besicovitch set using the Cantor set of dissection half."
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "CV",
+    "section": "Teaching",
+    "text": "Teaching\n\nTutor\nLearning and Academic Support Centre, Shiv Nadar Institution of Eminence · 2023\nTutor for Calculus I, supporting a group of undergraduate students through weekly lectures and tutorials."
+  },
+  {
+    "objectID": "cv.html#fellowship",
+    "href": "cv.html#fellowship",
+    "title": "CV",
+    "section": "Fellowship",
+    "text": "Fellowship\n\nl’EUR PNGS M&CS Grant\nUniversité Sorbonne Paris Nord · 2024–2026\nGrant awarded on the basis of academic performance for the duration of the masters program, covering accommodation and a monthly stipend.\nDownload detailed CV (PDF)"
+  },
+  {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Interests",
+    "section": "",
+    "text": "Outside of mathematics, I have quite a few interests that I pursue in my free time. I absolutely love watching and playing football. I’ve been watching Real Madrid since 2010 and try my best not to miss a single match. Below is an image I took inside the Santiago Bernabéu stadium during a visit in 2023 where they played Girona and I got to witness Modric’s last goal for the club.\n\n\n\nI am a HUGE foodie and absolutely love trying out new cuisines and dishes. I also enjoy cooking and experimenting with recipes in my kitchen. Below are some images of food that I’ve tried and enjoyed during my travels.\n\n\n\n\n\n\nIf you’re ever in Paris, I highly recommend getting wine or beer drunk by the Seine. It’s the perfect spot to go on romantic dates or just hang out with your friends. My favourite spot in particular is Quai Saint-Bernard, which is a small quay on the right bank of the Seine. You find lots of people dancing at night and playing music. Just a few minutes walk away is my favourite pub O’Jasons, which has the best bartenders and Guiness in Paris. The picture below is from inside the pub with my friend Camil and all the bartenders (I request you to ignore the stains in my shirt, I spilled a lot of alcohol while dancing that night).\n\n\n\n\nAlso highly recommend visitng Provins, a small medieval town just an hour and half away from Paris. It’s a cute little town with plenty of medieval architecture and a lot of history. It’s a great place to go for a day trip and just relax.\n\n\n\nFinally, I am a huge fan of anime and manga. I don’t watch as much as I used to back in 2020, but I still keep up with new seasons/chapters of my favourite series. It’s hard to pick a favourite anime, so I am attaching my MyAnimeList profile if you want to check out my list of favourite animes, mangas and characters or just add me as a friend there. I also have Instagram and Youtube channels where I post anime edits (I haven’t posted anything in years but will start again soon) which you could check out if you’d like."
+  }
+]
