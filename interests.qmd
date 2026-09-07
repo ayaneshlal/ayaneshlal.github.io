@@ -2,13 +2,13 @@
 title: "Interests"
 ---
 
-Outside of mathematics, I have quite a few interests that I pursue in my free time. I absolutely love watching and playing football. I've been watching Real Madrid since 2010 and try my best not to miss a single match. Below is an image I took inside the Santiago Bernabéu stadium during a visit in 2023 where they played Girona and I got to witness Modric's last goal for the club.
+Outside of mathematics, I have quite a few interests that I pursue in my free time. I absolutely love watching and playing football. I've been watching Real Madrid since 2010 and try my best not to miss a single match. Below is an image I took inside the Santiago Bernabéu stadium during a visit in 2025 where they played Girona and I got to witness Modric's last goal for the club.
 
 ::: {.interest-gallery}
 ![](images/interests/bernabeu.jpeg){.interest-thumb}
 :::
 
-I am a HUGE foodie and absolutely love trying out new cuisines and dishes. I also enjoy cooking and experimenting with recipes in my kitchen. Below are some images of food that I've tried and enjoyed during my travels.
+I am a HUGE foodie and absolutely love trying out new cuisines and dishes. I also enjoy cooking and experimenting with recipes in my kitchen. Below are some images of foods that I've tried and enjoyed during my travels.
 
 ::: {.interest-gallery}
 ![](images/interests/hungaryfood1.jpeg){.interest-thumb}
@@ -20,7 +20,7 @@ I am a HUGE foodie and absolutely love trying out new cuisines and dishes. I als
 ![](images/interests/paella.jpeg){.interest-thumb}
 :::
 
-If you're ever in Paris, I highly recommend getting wine or beer drunk by the Seine. It's the perfect spot to go on romantic dates or just hang out with your friends. My favourite spot in particular is Quai Saint-Bernard, which is a small quay on the right bank of the Seine. You find lots of people dancing at night and playing music. Just a few minutes walk away is my favourite pub O'Jasons, which has the best bartenders and Guiness in Paris. The picture below is from inside the pub with my friend Camil and all the bartenders (I request you to ignore the stains in my shirt, I spilled a lot of alcohol while dancing that night).
+If you're ever in Paris, I highly recommend getting wine or beer drunk by the Seine. It's the perfect spot to go on romantic dates or just hang out with your friends. My favourite spot in particular is Quai Saint-Bernard, which is a small quay on the right bank of the Seine. You find lots of people dancing at night and playing music. Just a few minutes walk away is my favourite pub O'Jasons, which has the best Guiness in Paris. The picture below is from inside the pub with my friend Camil and all the bartenders who are absolutely adorable (I request you to ignore the stains in my shirt, I spilled a lot of alcohol while dancing that night).
 
 ::: {.interest-gallery}
 
@@ -29,7 +29,7 @@ If you're ever in Paris, I highly recommend getting wine or beer drunk by the Se
 ![](images/interests/ojasons.jpeg){.interest-thumb}
 :::
 
-Also highly recommend visitng Provins, a small medieval town just an hour and half away from Paris. It's a cute little town with plenty of medieval architecture and a lot of history. It's a great place to go for a day trip and just relax.
+Also highly recommend visiting Provins, a small town just an hour and half away from Paris. It's a cute little town with plenty of medieval architecture and a lot of history. It's a great place to go for a day trip and just relax.
 
 ::: {.interest-gallery}
 ![](images/interests/provins.jpeg){.interest-thumb}
