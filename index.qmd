@@ -7,7 +7,7 @@ page-layout: full
 ::: {.column width="60%"}
 ## Hi, I'm Ayanesh.
 
-I recently completed the joint M2 Fundamental Mathematics track in Paris and will be a visiting student at the University of Melbourne for the month of October. This website is a place where I share a little about myself, my academic work (unfortunately not much at the moment 😔), and the things I care about outside of mathematics as well.
+I recently completed the joint M2 Fundamental Mathematics track in Paris and will be a visiting researcher at the University of Melbourne for the month of October. This website is a place where I share a little about myself, my academic work (unfortunately not much at the moment 😔), and the things I care about outside of mathematics as well.
 :::
 
 ::: {.column width="40%"}
