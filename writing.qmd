@@ -2,7 +2,7 @@
 title: "Writing Samples"
 ---
 
-These are a few pieces of mathematical write ups that I am particularly happy with and which could possibly act as expository stuff regardless of their primary purpose. A more complete list of my work, including  slides and other projects can be found in my [detailed CV](files/Ayanesh_Lal_CV.pdf). I plan to create a "Research" page when I have original research work to share, but for now this page is a collection of my expository writings and reports from various projects and seminars.
+These are a few pieces of mathematical write ups that I am particularly happy with and which could possibly act as expository stuff regardless of their primary purpose. A more complete list of my work, including  slides and other projects can be found [here](https://drive.google.com/drive/folders/1IOAVUrbc99RIYO36hk2DEndG1sL8Y0RU?usp=sharing). I plan to create a "Research" page when I have original research work to share, but for now this page is a collection of my expository writings and reports from various projects and seminars.
 
 ## Linear Wave Equations on Schwarzschild–de Sitter Spacetimes
 

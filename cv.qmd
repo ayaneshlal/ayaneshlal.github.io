@@ -80,5 +80,3 @@ Tutor for Calculus I, supporting a group of undergraduate students through weekl
 **Université Sorbonne Paris Nord** · 2024–2026
 
 Grant awarded on the basis of academic performance for the duration of the masters program, covering accommodation and a monthly stipend.
-
-[Download detailed CV (PDF)](files/Ayanesh_Lal_CV.pdf){.btn .btn-primary target="_blank"}
