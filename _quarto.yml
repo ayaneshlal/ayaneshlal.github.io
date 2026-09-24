@@ -1,5 +1,6 @@
 project:
   type: website
+  resources: google45d1bea89a008491.html
 
 website:
   title: "Ayanesh Lal"
